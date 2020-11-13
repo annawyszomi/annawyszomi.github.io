@@ -56,6 +56,9 @@ nav header {
 .right-col {
   background-color: #75e3dd;
 }
+.top-container img:hover{
+  filter: hue-rotate(90deg);
+}
 
 .left-col, .right-col {
   color: #fff;
